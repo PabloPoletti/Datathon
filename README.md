@@ -3,7 +3,10 @@
 
 ## - Planilla Resumen de la Utilizacion de Diferentes Algoritmos
 
-![image](https://user-images.githubusercontent.com/104991677/191863504-ef925445-8c5e-4929-89ff-35768550aa6e.png)
+
+![image](https://user-images.githubusercontent.com/104991677/191869190-8a48d990-977d-4efd-9b13-785a11967c7f.png)
+
+
 
 
 

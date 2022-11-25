@@ -1,5 +1,7 @@
 # PI 02 - Datathon - Pablo Poletti-DS03
 
+## - Consigna PI 02 - Datathon ML
+* [CONSIGNAS](https://github.com/PabloPoletti/Datathon-1) - Link al repopositorio con las consignas del Proyecto Individual 02 - DATATHON
 
 ## - Planilla Resumen de la Utilizacion de Diferentes Algoritmos
 
